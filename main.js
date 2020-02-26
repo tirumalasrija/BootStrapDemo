@@ -31,9 +31,9 @@ if(enterName ===""){
 var enterFullName=document.getElementById("fullName").value;
 
     if(enterName ==="" || enterFullName===""){
-        alert("Please fill the form");
+        //alert("Please fill the form");
     }else{
-        alert("thank you for submitting the form");
+        //alert("thank you for submitting the form");
     }
 }
 
