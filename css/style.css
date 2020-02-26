@@ -8,8 +8,12 @@
     margin-top: 60px;
 }
 footer{
-    background-color: #45a034;
+    background-color: #000;
 }
 .marginB30{
     margin-bottom: 30px;
+}
+.error{
+    color: red;
+    display: none;
 }
